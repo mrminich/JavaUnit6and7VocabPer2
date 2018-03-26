@@ -7,7 +7,7 @@ Alyx - Unit 6 # 1-5
 Riley - Unit 6 # 6-10
 Ethan - Unit 6 # 11-14 & Unit 7 #1
 Jevin - Unit 7 # 2-6
-Mr. Minich - Unit 7 #7
+Mr. Minich - Unit 7  #7
 
 
 
