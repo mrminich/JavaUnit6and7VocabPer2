@@ -1,7 +1,7 @@
 BE SURE TO ALWAYS READ A "README" FILE IF AVAILABLE 
 THE INSTRUCTOR OR COWORKER OFTEN PUTS ASSIGNMENT SPECS & ANNOUNCEMENTS THERE.
 
-Do the following vocab words:
+Do the following vocab words::
 
 Alyx - Unit 6 # 1-5
 Riley - Unit 6 # 6-10
