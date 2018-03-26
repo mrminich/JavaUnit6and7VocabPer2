@@ -26,4 +26,4 @@ Unit 7
 4. the overloaded add method
 5. remove method
 6. key
-7. flag variable
+7. flag variable - The data type of a flag variable is usually boolean. Flag variables are often used with while loops.
