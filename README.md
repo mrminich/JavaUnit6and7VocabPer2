@@ -1,7 +1,7 @@
 BE SURE TO ALWAYS READ A "README" FILE IF AVAILABLE 
 THE INSTRUCTOR OR COWORKER OFTEN PUTS ASSIGNMENT SPECS & ANNOUNCEMENTS THERE.
 
-Do the following vocab words:
+Do the following vocab words fulfilling all specs explained on our Java Vocab Page at https://docs.google.com/document/d/1J7DFt-_N8sv0sLVC-xptmYWtk0AU54tIseaTP51NL3Y 
 
 Alyx - Unit 6 # 1-5
 
