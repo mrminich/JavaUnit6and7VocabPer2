@@ -14,7 +14,7 @@ Unit 6
 8. static method
 9. instance method
 10. class invariant
-11. scope of a variable
+11. scope of a variable - The scope of a variable is the area of a program in which the variable can be used without causing an error. The scope of a variable is limited to where the variable was declared, referring to them as global or local.
 12. shadowing
 13. toString method
 14. local variable
