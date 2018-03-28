@@ -15,12 +15,12 @@ Unit 6
 9. instance method
 10. class invariant
 11. scope of a variable - The scope of a variable is the area of a program in which the variable can be used without causing an error. The scope of a variable is limited to where the variable was declared, referring to them as global or local.
-12. shadowing
-13. toString method
-14. local variable
+12. shadowing - Shadowing is when a local variable is given the same name as an instance variable. This is does not cause an error but is confusing for the coder.
+13. toString method - The purpose of the toString method is to allow a client programmer to display the state of an object. This method is not very organized and is usually used to make sure there are no errors in the code.
+14. local variable - A local vairable is a variable that can only be used in the method of a class that it was initialized in. Local variables are initialized in the method of a class while instance variables are initialized in the class. 
 
 Unit 7
-1. ArrayList
+1. ArrayList - An array list is an object that can store multiple objects, functioning like a background array. ArrayLists are instantiated at 0 and grows according to the objects needed to be stored in it, doubling in size to accomodate the obejcts.
 2. size method
 3. get method
 4. the overloaded add method
