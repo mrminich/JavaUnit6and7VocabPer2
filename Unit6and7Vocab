@@ -4,26 +4,26 @@ Period 2
 Units 6 & 7
 
 Unit 6
-1. cohesive
-2. coupling
-3. composition
-4. has-a relationship
-5. precondition
-6. postcondition
-7. static field
-8. static method
+1. cohesive-
+2. coupling-
+3. composition-
+4. has-a relationship-
+5. precondition-
+6. postcondition- A postcondition is something in a method that assures that something will happen when a method is called. Postconditions can be used to help support an informal design-by-contract style of programming.
+7. static field- A static field which is also known as  a static variable, class variable, or a class field is instance variables that are shared between all objects in a class.
+8. static method- A static method which is also known as a class method is a method that does not apply to just one specified variable. You must use a static method in a class in order to use parameters in your method.
 9. instance method- An instance method is a method in java that is applied to an object of a class. You can use an instance method in java to, (after instatiating an object like, Hero cloud = new Hero();) call one of its instance methods after using the dot operator. 
 10. class invariant- A class invariant is an expression that will always be true about an object variable of a class at any point while the program executes. The invariant could be like in a class if say the class named Cloud where there is an instance field named myWater and could never be over 100. The class invariant for the cloud would be that "The cloud will never have over 100 water". 
 11. scope of a variable - The scope of a variable is the area of a program in which the variable can be used without causing an error. The scope of a variable is limited to where the variable was declared, referring to them as global or local.
-12. shadowing
-13. toString method
-14. local variable
+12. shadowing-
+13. toString method-
+14. local variable-
 
 Unit 7
-1. ArrayList
-2. size method
-3. get method
-4. the overloaded add method
-5. remove method
-6. key
+1. ArrayList-
+2. size method-
+3. get method-
+4. the overloaded add method-
+5. remove method-
+6. key-
 7. flag variable - The data type of a flag variable is usually boolean. Flag variables are often used with while loops.
