@@ -4,16 +4,16 @@ Period 2
 Units 6 & 7
 
 Unit 6
-1. cohesive-
-2. coupling-
-3. composition-
-4. has-a relationship-
-5. precondition-
-6. postcondition- A postcondition is something in a method that assures that something will happen when a method is called. Postconditions can be used to help support an informal design-by-contract style of programming.
-7. static field- A static field which is also known as  a static variable, class variable, or a class field is instance variables that are shared between all objects in a class.
-8. static method- A static method which is also known as a class method is a method that does not apply to just one specified variable. You must use a static method in a class in order to use parameters in your method.
-9. instance method- An instance method is a method in java that is applied to an object of a class. You can use an instance method in java to, (after instatiating an object like, Hero cloud = new Hero();) call one of its instance methods after using the dot operator. 
-10. class invariant- A class invariant is an expression that will always be true about an object variable of a class at any point while the program executes. The invariant could be like in a class if say the class named Cloud where there is an instance field named myWater and could never be over 100. The class invariant for the cloud would be that "The cloud will never have over 100 water". 
+1. cohesive - When a class is cohesive, it has both pubilic methods and constants are related ot the the main purpose of the class. Cohesive classes are used when a class is set up with code that is related to that class only, and runs without any problems.
+2. coupling - When a class has a "has-a" relationship, it is considered coupled. It is best to make a class that has no coupling.
+3. composition - 
+4. has-a relationship - A class has a "has-a" relationship with another class is an object of that class is an intstance variable of the class. "Has-a" relationships are shown in use when you make an object of one class an instance variable in another class.
+5. precondition - A precondition is something that is guaranteed by the creator of a program. A percondition is important to a program because it is what is guaranteed to work in the progran by the creator.
+6. postcondition
+7. static field
+8. static method
+9. instance method
+10. class invariant
 11. scope of a variable - The scope of a variable is the area of a program in which the variable can be used without causing an error. The scope of a variable is limited to where the variable was declared, referring to them as global or local.
 12. shadowing - Shadowing is when a local variable is given the same name as an instance variable. This is does not cause an error but is confusing for the coder.
 13. toString method - The purpose of the toString method is to allow a client programmer to display the state of an object. This method is not very organized and is usually used to make sure there are no errors in the code.
