@@ -10,7 +10,7 @@ Unit 6
 4. has-a relationship - A class has a "has-a" relationship with another class is an object of that class is an intstance variable of the class. "Has-a" relationships are shown in use when you make an object of one class an instance variable in another class.
 5. precondition - A precondition is something that is guaranteed by the creator of a program. A percondition is important to a program because it is what is guaranteed to work in the progran by the creator.
 6. postcondition
-7. static field
+7. static field -dfdjfdkljfdkljfdkljfkldf
 8. static method
 9. instance method
 10. class invariant
